@@ -29,7 +29,7 @@ css-style: {
 		text-decoration-line: line-through;
 	}
 
-	progress, trough {
+	progressbar progress, progressbar trough {
 		min-height: 2em;
 	}
 }
